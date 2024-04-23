@@ -51,7 +51,7 @@
       "type": "Feature",
       "properties": {
         "campus": "Dormitory Campus 2",
-        "base": "Altus"
+        "base": "Sheppard"
       },
       "geometry": {
         "coordinates": [
